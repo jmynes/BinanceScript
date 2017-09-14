@@ -1,5 +1,7 @@
 Jordan's notes:
 
+Get an API and Secret Key, insert into jordank.py
+
 https://www.binance.com/restapipub.html
 
 https://github.com/sammchardy/python-binance
