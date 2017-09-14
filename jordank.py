@@ -17,6 +17,7 @@ time_res = client.get_server_time()
 # tickers = client.get_all_tickers()
 # print(tickers)
 
+# Not working below:
 # openorders = client.get_open_orders()
 # print(openorders)
 
